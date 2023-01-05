@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  body {background-color:red;}
-  main { background: rgb(6,5,38); background: radial-gradient(circle, rgba(6,5,38,1) 0%, rgba(10,10,80,1) 39%, rgba(54,3,88,1) 100%);}
-</style>
