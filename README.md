@@ -1,6 +1,6 @@
-<img src="https://bestanimations.com/Computers/funny-computer-animated-gif-29.gif" />
+<p align="center"><img src="cowsay.gif" /></p>
 
-### Hi there 👋
+
 
 <!--
 **joshuahamlet/joshuahamlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
