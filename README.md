@@ -1,3 +1,7 @@
+<div style="background-image: url('linkedinbanner.png')">
+ HOWDY
+<div>
+
 ### Hi there 👋
 
 <!--
