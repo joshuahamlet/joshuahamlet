@@ -58,8 +58,8 @@
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./unity-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./unity-dark.svg">
+      <img src="./unity-light.svg" alt="Unity" title="unity" width="40"/>
     </picture>
-    <img src="./unity-light.svg" alt="Unity" title="unity" width="40"/>
   </a>
 </p>
 
