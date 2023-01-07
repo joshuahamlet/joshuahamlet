@@ -54,12 +54,15 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="csharp"/>
   </a>
-  <a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./unity-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./unity-dark.svg">
       <img src="./unity-light.svg" alt="Unity" title="unity" width="40"/>
     </picture>
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="42" alt="nginx" title="nginx"/>
   </a>
 </p>
 
@@ -103,6 +106,9 @@
   <a/>
   <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
     <img src="./i3.svg" width="42" height="42" title="i3"/>
+  <a/>
+  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
+    <img src="./bash.svg" width="48" alt="bash" title="bash"/>
   <a/>
 </p>
 
