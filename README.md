@@ -38,15 +38,15 @@
       <source media="(prefers-color-scheme: dark)" srcset="./linux-dark.svg">    
       <img src="./linux-dark.svg" width="42" height="42" title="linux"/>
     </pictiure>
-  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="36" height="36" />
+  <a href="https://en.wikipedia.org/wiki/Vim_(text_editor)" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="40" title="vim"/>
   <a/>
-  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
-    <img src="./i3.svg" width="42" height="42" title="i3"/>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="40" title="neovim"/>
   <a/>
   </a>
   <a href="https://swaywm.org/" target="_blank" rel="noreferrer">
-    <img src="./sway.svg" width="42" height="42" title="sway"/>
+    <img src="./sway.svg" width="46" title="sway"/>
   <a/>
   <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
     <img src="./i3.svg" width="42" height="42" title="i3"/>
