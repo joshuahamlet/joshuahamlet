@@ -2,7 +2,7 @@
 
 ### Learning
 <p>
-  <a href="https://www.go.dev/" target="_blank" rel="noreferrer">
+  <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="go"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
