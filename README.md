@@ -39,7 +39,13 @@
       <img src="./linux-dark.svg" width="42" height="42" title="linux"/>
     </pictiure>
   </a>
+  <a href="https://swaywm.org/" target="_blank" rel="noreferrer">
+    <img src="./sway.svg" width="42" height="42" title="sway"/>
+  <a/>
 </p>
+
+
+
 
 <!--
 **joshuahamlet/joshuahamlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
