@@ -38,9 +38,18 @@
       <source media="(prefers-color-scheme: dark)" srcset="./linux-dark.svg">    
       <img src="./linux-dark.svg" width="42" height="42" title="linux"/>
     </pictiure>
+  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="36" height="36" />
+  <a/>
+  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
+    <img src="./i3.svg" width="42" height="42" title="i3"/>
+  <a/>
   </a>
   <a href="https://swaywm.org/" target="_blank" rel="noreferrer">
     <img src="./sway.svg" width="42" height="42" title="sway"/>
+  <a/>
+  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
+    <img src="./i3.svg" width="42" height="42" title="i3"/>
   <a/>
 </p>
 
