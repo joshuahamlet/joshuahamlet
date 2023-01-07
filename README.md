@@ -9,13 +9,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="36" height="36" />
   </a>
   <a >
-    <img src="./haskell.svg" width="60" height="60" />
+    <img src="./haskell.svg" width="50" />
   </a>
   <a >
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./lua-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./lua-dark.svg">    
-      <img src="./lua-dark.svg" width="46" height="46" />
+      <img src="./lua-dark.svg" width="42" height="42" />
     </pictiure>
   </a>
 </p>
