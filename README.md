@@ -3,7 +3,7 @@
 ### Learning
 <p>
   <a  href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img height="40" width="40" src="./rust.svg" height="40" width="40" />
+    <img src="./rust.svg" height="40" width="40" />
   </a>
   <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="36" height="36" />
