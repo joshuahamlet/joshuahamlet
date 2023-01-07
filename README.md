@@ -8,14 +8,14 @@
   <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="36" height="36" />
   </a>
-  <a style="margin-right:5px">
+  <a >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="60" height="60" />
   </a>
-  <a style="margin-right:5px">
+  <a >
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./lua-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./lua-dark.svg">    
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" width="46" height="46" />
+      <img src="./lua-dark.svg" width="46" height="46" />
     </pictiure>
   </a>
 </p>
