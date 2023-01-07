@@ -1,6 +1,6 @@
 <p align="center"><img src="cowsayintro.gif" /></p>
 
-### Learning
+### What I'd Love to Use More of
 <p>
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="go"/>
@@ -8,6 +8,10 @@
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="csharp"/>
   </a>      
+</p>
+
+### What I'm Excited to Learn
+<p>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="./rust.svg" height="40" width="40" title="rust"/>
   </a>
