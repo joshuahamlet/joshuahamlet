@@ -53,7 +53,14 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="csharp"/>
-  </a>      
+  </a>
+  <a>
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./unity-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./unity-dark.svg">
+    </picture>
+    <img src="./unity-light.svg" alt="Unity" title="unity" width="40"/>
+  </a>
 </p>
 
 ### What I'm Excited to Learn
