@@ -13,8 +13,8 @@
   </a>
   <a style="margin-right:5px">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">    
+      <source media="(prefers-color-scheme: light)" srcset="./lua-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./lua-dark.svg">    
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" width="46" height="46" />
     </pictiure>
   </a>
