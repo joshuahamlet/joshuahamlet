@@ -30,6 +30,17 @@
   </a>
 </p>
 
+### What I Nerd out on
+<p>
+  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./linux-light.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="./linux-dark.svg">    
+      <img src="./linux-dark.svg" width="42" height="42" title="lua"/>
+    </pictiure>
+  </a>
+</p>
+
 <!--
 **joshuahamlet/joshuahamlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
