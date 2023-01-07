@@ -1,5 +1,10 @@
 <p align="center"><img src="cowsayintro.gif" /></p>
 
+<img src="./rust.svg" height="48" width="48" />
+<img src="https://raw.githubusercontent.com/joshuahamlet/joshuahamlet/main/rust.svg" height="48" width="48" />
+<img src="https://github.com/joshuahamlet/joshuahamlet/blob/main/rust.svg" height="48" width="48" />
+
+
 <!--
 **joshuahamlet/joshuahamlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
