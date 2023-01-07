@@ -9,7 +9,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="36" height="36" />
   </a>
   <a >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="60" height="60" />
+    <img src="./haskell.svg" width="60" height="60" />
   </a>
   <a >
     <picture>
