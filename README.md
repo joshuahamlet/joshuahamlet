@@ -32,11 +32,11 @@
 
 ### What I Nerd out on
 <p>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="./linux-light.svg">
       <source media="(prefers-color-scheme: dark)" srcset="./linux-dark.svg">    
-      <img src="./linux-dark.svg" width="42" height="42" title="lua"/>
+      <img src="./linux-dark.svg" width="42" height="42" title="linux"/>
     </pictiure>
   </a>
 </p>
