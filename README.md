@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="42" alt="Firebase" title="firebase"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52" alt="docker" title="docker"/>
+    <img src="./docker.svg" width="74" alt="docker" title="docker"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="mongodb.svg" width="46" height="46" alt="mongodb" title="mongodb"/>
