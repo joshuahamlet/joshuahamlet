@@ -108,7 +108,7 @@
     <img src="./i3.svg" width="42" height="42" title="i3"/>
   <a/>
   <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
-    <img src="./bash.svg" width="48" alt="bash" title="bash"/>
+    <img src="./bash.svg" width="42" alt="bash" title="bash"/>
   <a/>
 </p>
 
