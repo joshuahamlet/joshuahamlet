@@ -68,7 +68,9 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" title="webpack"/>
   </a>
-
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+  <img src="vite.svg" width="36" alt="Vite" title="vite"/>
+  </a>
 </p>
 
 ### What I'd Love to Use More of
@@ -96,7 +98,7 @@
     <img src="prisma.svg" width="34" alt="prisma" title="prisma"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" alt="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" alt="PostgreSQL" title="postgresql"/>
   </a>
 </p>
 
