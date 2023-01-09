@@ -102,6 +102,11 @@
       <img src="./lua-dark.svg" width="42" height="42" title="lua"/>
     </pictiure>
   </a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="supabase"/>
+  </a>
+</p>
+
 </p>
 
 ### What I Nerd out on
