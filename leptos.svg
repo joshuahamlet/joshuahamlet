@@ -1,13 +1,13 @@
-<svg viewBox="1330 70 426 316" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<svg viewBox="1330 72 426 316" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
   <g transform="matrix(1, 0, 0, 1, 102, -18.375)">
-    <rect x="807.381" y="175" width="6" height="150" style="fill: rgb(252, 32, 32);" transform="matrix(0.897117, 0.441793, -0.441793, 0.897117, 704.711914, -348.693634)"/>
+    <rect x="807.381" y="175" width="12" height="150" style="fill: rgb(252, 32, 32);" transform="matrix(0.897117, 0.441793, -0.441793, 0.897117, 704.711914, -348.693634)"/>
     <circle style="fill: none; stroke-width: 12px; stroke: rgb(252, 32, 32);" cx="1353.5" cy="362.589" r="37.5" transform="matrix(0.897117, 0.441793, -0.441793, 0.897117, 218.816512, -587.977126)"/>
     <rect x="1300" y="100" width="343.757" height="74.974" style="fill: rgb(255, 255, 255); stroke: rgb(252, 32, 32); stroke-width: 12px;"/>
   </g>
-  <rect x="1530.999" y="156.625" width="6" height="150" style="fill: rgb(252, 32, 32);"/>
+  <rect x="1530.999" y="156.625" width="12" height="150" style="fill: rgb(252, 32, 32);"/>
   <circle style="fill: none; stroke-width: 12px; stroke: rgb(252, 32, 32);" cx="1534.061" cy="344.447" r="37.5"/>
-  <rect x="1611.98" y="156.303" width="6" height="150" style="fill: rgb(252, 32, 32);"/>
-  <rect x="1691.98" y="156.303" width="6" height="150" style="fill: rgb(252, 32, 32);"/>
+  <rect x="1611.98" y="156.303" width="12" height="150" style="fill: rgb(252, 32, 32);"/>
+  <rect x="1691.98" y="156.303" width="12" height="150" style="fill: rgb(252, 32, 32);"/>
   <circle style="fill: none; stroke-width: 12px; stroke: rgb(252, 32, 32);" cx="1614.481" cy="343.892" r="37.5"/>
   <circle style="fill: none; stroke-width: 12px; stroke: rgb(252, 32, 32);" cx="1695.042" cy="344.125" r="37.5"/>
 </svg>
