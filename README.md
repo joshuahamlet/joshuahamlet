@@ -83,7 +83,10 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="nestjs"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="prisma.svg" width="44" alt="prisma" title="prisma"/>
+    <img src="prisma.svg" width="34" alt="prisma" title="prisma"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" alt="PostgreSQL" />
   </a>
 </p>
 
