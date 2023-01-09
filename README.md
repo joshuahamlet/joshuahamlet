@@ -100,6 +100,9 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" alt="PostgreSQL" title="postgresql"/>
   </a>
+  <a href="https://grpc.io/" target="_blank" rel="noreferrer">
+    <img src="grpc.svg" width="32" alt="grpc" title="grpc"/>
+  </a>
 </p>
 
 ### What I'm Excited to Learn
@@ -125,6 +128,9 @@
   </a>
   <a href="https://supabase.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="supabase"/>
+  </a>
+    <a href="https://trpc.io/" target="_blank" rel="noreferrer">
+    <img src="trpc.svg" width="38" alt="trpc" title="trpc"/>
   </a>
 </p>
 
