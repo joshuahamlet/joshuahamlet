@@ -56,6 +56,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="mongodb.svg" width="46" height="46" alt="mongodb" title="mongodb"/>
   </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="38" alt="Redux" title="redux"/>
+  </a>
 </p>
 
 ### What I'd Love to Use More of
@@ -75,6 +78,9 @@
   </a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="42" alt="nginx" title="nginx"/>
+  </a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="nestjs"/>
   </a>
 </p>
 
