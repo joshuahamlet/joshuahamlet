@@ -89,6 +89,9 @@
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="./rust.svg" height="40" width="40" title="rust"/>
   </a>
+  <a href="https://github.com/gbj/leptos" target="_blank" rel="noreferrer">
+    <img src="./leptos.svg" width="48" title="leptos" alt="leptos"/>
+  </a>
   <a href="https://elm-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="36" height="36" title="elm"/>
   </a>
