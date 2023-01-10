@@ -103,6 +103,9 @@
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="grpc.svg" width="32" alt="grpc" title="grpc"/>
   </a>
+  <a href="https://yew.rs/" target="_blank" rel="noreferrer">
+    <img src="yew.svg" width="46" alt="yew" title="yew"/>
+  </a>
 </p>
 
 ### What I'm Excited to Learn
