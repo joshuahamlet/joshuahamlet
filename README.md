@@ -104,7 +104,7 @@
     <img src="grpc.svg" width="32" alt="grpc" title="grpc"/>
   </a>
   <a href="https://yew.rs/" target="_blank" rel="noreferrer">
-    <img src="yew.svg" width="46" alt="yew" title="yew"/>
+    <img src="yew.svg" width="38" alt="yew" title="yew"/>
   </a>
 </p>
 
