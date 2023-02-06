@@ -160,8 +160,11 @@
   <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
     <img src="./i3.svg" width="42" height="42" title="i3"/>
   <a/>
-  <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="./bash.svg" width="42" alt="bash" title="bash"/>
+  <a/>
+  <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer">
+    <img src="./tmux.svg" width="42" alt="tmux" title="tmux"/>
   <a/>
 </p>
 
@@ -170,11 +173,11 @@
     <a href="https://www.github.com/joshuahamlet" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
     </a>
-  <a href="https://www.codepen.io/joshuahamlet" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" />
+    <a href="https://www.codepen.io/joshuahamlet" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" />
     </a>
-<a href="https://www.linkedin.com/in/joshuahamlet" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <a href="https://www.linkedin.com/in/joshuahamlet" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
   </p>
 
