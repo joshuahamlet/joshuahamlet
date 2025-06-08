@@ -3,7 +3,7 @@
 ### What I Use
 <p>
   <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
-    <img src="./appsscript.svg" width="36" height="36" alt="appsscript" title="appsscript"/>
+    <img src="./appsscript.svg" width="40" height="40" alt="appsscript" title="appsscript"/>
   </a>
   <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="./bigquery.svg" width="36" height="36" alt="bigquery" title="bigquery"/>
