@@ -13,6 +13,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="html5"/>
   </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="react"/>
   </a>
@@ -22,19 +25,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://astro.build/assets/press/logomark-dark.svg">
       <img src="https://astro.build/assets/press/logomark-light.svg" width="36" height="36" alt="Astro" title="astro"/>
     </picture>
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <picture>
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg">
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="nextjs"/>
-    </picture>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="46" alt="Sass" title="sass"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="36" alt="TailwindCSS" title="tailwindcss"/>
@@ -92,37 +82,6 @@
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="grpc.svg" width="32" alt="grpc" title="grpc"/>
   </a>
-</p>
-
-### What I'm Excited to Learn
-<p>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="./rust.svg" height="40" width="40" title="rust"/>
-  </a>
-  <a href="https://github.com/gbj/leptos" target="_blank" rel="noreferrer">
-    <img src="./leptos.svg" width="48" title="leptos" alt="leptos"/>
-  </a>
-  <a href="https://elm-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" width="36" height="36" title="elm"/>
-  </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
-    <img src="./haskell.svg" width="50" title="haskell"/>
-  </a>
-  <a href="https://www.lua.org/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./lua-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="./lua-dark.svg">    
-      <img src="./lua-dark.svg" width="42" height="42" title="lua"/>
-    </pictiure>
-  </a>
-  <a href="https://supabase.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="supabase"/>
-  </a>
-    <a href="https://trpc.io/" target="_blank" rel="noreferrer">
-    <img src="trpc.svg" width="38" alt="trpc" title="trpc"/>
-  </a>
-</p>
-
 </p>
 
 ### What I Nerd out on
