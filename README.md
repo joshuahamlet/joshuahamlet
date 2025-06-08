@@ -1,6 +1,6 @@
 <p align="center"><img src="cowsayintro.gif" /></p>
 
-### What I Use
+### What I Use at Work
 <p>
   <a href="https://www.fivetran.com" target="_blank" rel="noreferrer">
     <img src="./fivetran.svg" width="36" height="36" alt="fivetran" title="fivetran"/>
@@ -28,6 +28,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="python" />
   </a>
+  <!--
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="react"/>
   </a>
@@ -63,10 +64,15 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="38" alt="Redux" title="redux"/>
   </a>
+  -->
 </p>
 
-### What I'd Love to Use More of
+### What's sparking my interest lately
 <p>
+  <a href="https://clojure.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" height="40" title="clojure"/>
+  </a>
+  <!--
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="go"/>
   </a>
@@ -82,6 +88,7 @@
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="grpc.svg" width="32" alt="grpc" title="grpc"/>
   </a>
+  -->
 </p>
 
 ### What I Nerd out on
