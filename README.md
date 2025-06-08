@@ -5,9 +5,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" title="javaScript"/>
   </a>
+<!--  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="typescript"/>
   </a>
+ --> 
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="html5"/>
   </a>
@@ -78,33 +80,17 @@
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="go"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="csharp"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./unity-light.svg">
-      <source media="(prefers-color-scheme: dark)" srcset="./unity-dark.svg">
-      <img src="./unity-light.svg" alt="Unity" title="unity" width="40"/>
-    </picture>
-  </a>
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" height="42" alt="nginx" title="nginx"/>
   </a>
   <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" title="nestjs"/>
   </a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-    <img src="prisma.svg" width="34" alt="prisma" title="prisma"/>
-  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="42" alt="PostgreSQL" title="postgresql"/>
   </a>
   <a href="https://grpc.io/" target="_blank" rel="noreferrer">
     <img src="grpc.svg" width="32" alt="grpc" title="grpc"/>
-  </a>
-  <a href="https://yew.rs/" target="_blank" rel="noreferrer">
-    <img src="yew.svg" width="38" alt="yew" title="yew"/>
   </a>
 </p>
 
