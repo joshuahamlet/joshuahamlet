@@ -75,8 +75,6 @@
   <a href="https://clojure.org/" target="_blank" rel="noreferrer">
     <img src="https://data-star.dev/static/images/rocket-8592929d92cc53dd685664da96dc02e11f4f083bf2441026ef0e70d6ea743e62.svg" height="40" title="datastar"/>
   </a>
-  https://data-star.dev/static/images/rocket-8592929…664da96dc02e11f4f083bf2441026ef0e70d6ea743e62.svg
-
   <!--
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="go"/>
