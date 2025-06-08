@@ -2,7 +2,10 @@
 
 ### What I Use
 <p>
-<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+  <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
+    <img src="./appsscript.svg" width="36" height="36" alt="appsscript" title="appsscript"/>
+  </a>
+  <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="./bigquery.svg" width="36" height="36" alt="bigquery" title="bigquery"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
