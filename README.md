@@ -2,6 +2,9 @@
 
 ### What I Use
 <p>
+  <a href="https://www.fivetran.com" target="_blank" rel="noreferrer">
+    <img src="./fivetran.svg" width="36" height="36" alt="fivetran" title="fivetran"/>
+  </a>
   <a href="https://developers.google.com/apps-script" target="_blank" rel="noreferrer">
     <img src="./appsscript.svg" width="40" height="40" alt="appsscript" title="appsscript"/>
   </a>
