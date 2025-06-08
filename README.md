@@ -51,18 +51,6 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="38" alt="Redux" title="redux"/>
   </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="graphql"/>
-  </a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="heroku"/>
-  </a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" title="webpack"/>
-  </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-  <img src="vite.svg" width="36" alt="Vite" title="vite"/>
-  </a>
 </p>
 
 ### What I'd Love to Use More of
