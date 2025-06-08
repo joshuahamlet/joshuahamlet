@@ -72,8 +72,11 @@
   <a href="https://clojure.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" height="40" title="clojure"/>
   </a>
-  <a href="https://clojure.org/" target="_blank" rel="noreferrer">
+  <a href="https://data-star.dev/" target="_blank" rel="noreferrer">
     <img src="https://data-star.dev/static/images/rocket-8592929d92cc53dd685664da96dc02e11f4f083bf2441026ef0e70d6ea743e62.svg" height="40" title="datastar"/>
+  </a>
+  <a href="https://htmx.org/" target="_blank" rel="noreferrer">
+    <img src="./htmx.svg" height="40" title="htmx"/>
   </a>
   <!--
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
