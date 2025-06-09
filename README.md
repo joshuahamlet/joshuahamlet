@@ -118,6 +118,9 @@
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="40" title="neovim"/>
   <a/>
+  <a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer">
+    <img src="./emacs.svg" height="40" title="emacs"/>
+  </a>
   </a>
   <a href="https://swaywm.org/" target="_blank" rel="noreferrer">
     <img src="./sway.svg" width="46" title="sway"/>
@@ -125,9 +128,11 @@
   <a href="https://i3wm.org/" target="_blank" rel="noreferrer">
     <img src="./i3.svg" width="42" height="42" title="i3"/>
   <a/>
+  <!--
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="./bash.svg" width="42" alt="bash" title="bash"/>
   <a/>
+  -->
   <a href="https://github.com/tmux/tmux/wiki" target="_blank" rel="noreferrer">
     <img src="./tmux.svg" width="42" alt="tmux" title="tmux"/>
   <a/>
