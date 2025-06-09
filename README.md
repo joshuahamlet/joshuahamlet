@@ -26,7 +26,7 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" alt="python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="python" />
   </a>
   <!--
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -78,6 +78,13 @@
   <a href="https://htmx.org/" target="_blank" rel="noreferrer">
     <img src="./htmx.svg" height="40" title="htmx"/>
   </a>
+  <a href="https://xtdb.com/" target="_blank" rel="noreferrer">
+    <img src="./xtdb.svg" height="40" title="xtdb"/>
+  </a>
+  <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="40" title="prolog"/>
+  </a>
+
   <!--
   <a href="https://go.dev/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" title="go"/>
@@ -97,7 +104,7 @@
   -->
 </p>
 
-### What I Nerd out on
+### Tools I enjoy
 <p>
   <a href="https://en.wikipedia.org/wiki/Linux" target="_blank" rel="noreferrer">
     <picture>
