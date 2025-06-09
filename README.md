@@ -82,7 +82,7 @@
     <img src="./xtdb.svg" height="40" title="xtdb"/>
   </a>
   <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="40" title="prolog"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg" height="46" title="prolog"/>
   </a>
 
   <!--
